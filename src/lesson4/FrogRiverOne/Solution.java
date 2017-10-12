@@ -41,7 +41,7 @@ public class Solution {
 
 	public static void main(String[] args) {
 		int[] A = {1, 3, 1, 4, 2, 3, 5, 4}; int Xa = 5;
-		System.out.println("A1: " + solution(Xa, A));
+		System.out.println("A: " + solution(Xa, A));
 		
 		int[] B = {1, 3, 1, 4, 2, 6, 5, 4}; int Xb = 5;
 		System.out.println("B: " + solution(Xb, B));
